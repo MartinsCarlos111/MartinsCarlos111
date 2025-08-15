@@ -6,11 +6,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinsCarlos111&show_icons=true&theme=dracula&count_private=true)
-
----
-
 ## 💻 Tecnologias & Ferramentas
 
 <div style="display: inline_block"><br>
